@@ -1,0 +1,81 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Metric</th>
+      <th>Optimized Portfolio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Cumulative Return</td>
+      <td>12.437504</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Annualized Return</td>
+      <td>0.757754</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Annualized Volatility</td>
+      <td>0.632495</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Sharpe Ratio</td>
+      <td>1.182228</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Sortino Ratio</td>
+      <td>1.565630</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Maximum Drawdown</td>
+      <td>-0.712666</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Lowest Point (% of Initial Capital)</td>
+      <td>0.952123</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>VaR (99%)</td>
+      <td>-0.090142</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>CVaR (99%)</td>
+      <td>-0.128144</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Calmar Ratio</td>
+      <td>1.063266</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Upside Potential Ratio</td>
+      <td>0.874140</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Omega Ratio</td>
+      <td>1.211681</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Skewness</td>
+      <td>0.181131</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Kurtosis</td>
+      <td>7.069322</td>
+    </tr>
+  </tbody>
+</table>
